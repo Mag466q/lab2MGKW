@@ -1,7 +1,10 @@
-*Rozwiązanie nr 1 
+Rozwiązanie nr 1 
   - Lista
   - Kolejnosc wykonywania działań 
- *Rozwiązanie nr 2
+ 
+ 
+ 
+ Rozwiązanie nr 2
   - Stos
   - Działanie na nawiasch
   - Wartosci bezwzględne
