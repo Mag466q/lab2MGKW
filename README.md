@@ -1,7 +1,7 @@
 Rozwiązanie nr 1 
   - Lista
   - Prosta kolejnosc wykonywania działań
- Rozwiązanie nr 2
+  Rozwiązanie nr 2
   - Stos
   - Działanie na nawiasch
   - Zgodnie z kolejnosca wykonywania działań tylko w przypatku kiedy odejmowanie realizowanie jest przez dodawanie liczy przeciwnej
